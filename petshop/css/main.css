@@ -5,9 +5,9 @@ main{
 .bloco-propaganda{
     display: flex;
     justify-content: end;
-    background-image: url("/img/cachorro-leaocomprimida.jpg");
+    background-image: url("../img/cachorro-leaocomprimida.jpg");
     background-color: rgb(244, 242, 243);
-    background-position:center;
+    background-position: center;
     /* background-attachment: fixed; */
     background-size: contain;
     background-position: left center;
